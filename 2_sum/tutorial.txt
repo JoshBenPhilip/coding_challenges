@@ -1,0 +1,3 @@
+https://www.google.com/search?q=how+to+solve+2+sum+in+javascript&rlz=1C5CHFA_enUS1001US1001&oq=how+to+solve+2+sum+in+java&aqs=chrome.1.69i57j33i160l2j33i22i29i30.8098j0j7&sourceid=chrome&ie=UTF-8#kpvalbx=_OTQpY5K5Ba3DqtsPwMe0yA8_31
+
+above is link to youtube tutorial solving 2 sum with hashmap.
